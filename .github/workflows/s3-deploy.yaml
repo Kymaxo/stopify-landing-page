@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify -e gh-pages -s ./website/public
+        run: hugo --minify -e gh-pages -s website
         
     # Deploys built website to S3
       - name: Deploy to S3
