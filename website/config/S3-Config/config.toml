@@ -2,4 +2,4 @@
 
 [[deployment.targets]]
 name = "stopify.com/landing-pages"
-URL = "s3://stopify-20210715141335357800000001?region=eu-west-3"
+URL = "s3://stopify-20210719081918399300000001?region=eu-west-3"
